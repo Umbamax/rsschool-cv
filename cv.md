@@ -18,8 +18,9 @@
   * Technical consultation of employees
   * Did backup every monday
   * Responses to citizens' appeals
+  * Was engaged in procurement
 ## Example of code
-```
+``
 const findSquares = num => {
     let min = num - Math.ceil(num / 2)
     let max = num - Math.floor(num / 2)
